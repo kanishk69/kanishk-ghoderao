@@ -1,21 +1,32 @@
 # Hi, I'm Kanishk 👋
 
-Python engineer focused on real-time data pipelines, automation, and
-algorithmic trading systems.
+Python Developer | Trading Automation | APIs | Databases
 
-## What I build
-- Real-time OHLC & indicator pipelines
-- Async Python services with PostgreSQL / Supabase / Neon
-- Trading bots with risk management & logging
-- Data analysis & backtesting frameworks
+I build automated trading systems, real-time data pipelines,
+indicator engines, database workflows and dashboards.
 
 ## Tech Stack
-Python • AsyncIO • PostgreSQL • Supabase • Pandas • NumPy • AWS • Linux
+- Python
+- PostgreSQL
+- Supabase
+- Flask
+- REST APIs
+- Binance / Trading APIs
+- Telegram Bots
+- AWS / VPS
 
 ## Featured Projects
-➡️ Algo Trading Pipeline (live indicators + execution)
-➡️ Indicator Research & Backtesting Framework
-➡️ Automation & ETL Tools
 
-## Open to
-Remote backend / automation / data roles
+### Automated Trading Engine
+Real-time market data processing, technical indicators,
+order execution and risk management.
+
+### Market Indicator Pipeline
+Continuous OHLC processing and indicator generation
+using PostgreSQL/Supabase.
+
+### Live Monitoring Dashboard
+Real-time watchlist dashboard with Flask UI.
+
+## Contact
+Email - kanishk.gk@gmail.com
